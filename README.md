@@ -34,6 +34,10 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+Truthtable FULL ADDER:
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/145742724/a62a3ae7-96ff-4d32-b4fd-90214af5c6ae)
+FULL SUBRACTOR:
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/145742724/0c4eeea8-10fe-4949-bbef-6b1ee99fdefe)
 
 **Procedure**
 
@@ -46,16 +50,29 @@ Figure -02 HALF Subtractor
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
+6.	
 
 
 **Program:**
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/145742724/17bf86d3-e0c7-44bd-a969-09446493fa7d)
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/145742724/b825d1cc-5620-4a3b-9139-2a49be5999a7)
 
-Developed by: RegisterNumber:*/
+
+
+Developed by:Praveen K
+
+RegisterNumber:212223230153
 
 **RTL Schematic**
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/145742724/ef78022f-c87c-4bcc-926e-340575ce481c)
 
 **Output/TIMING Waveform**
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/145742724/f22c6ffb-34c8-4542-adcb-96bd1c233934)
+
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/145742724/b7161c65-0c5e-4935-9124-3cf04e14e0f0)
 
 **Result:**
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+
+
